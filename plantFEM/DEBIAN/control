@@ -1,0 +1,13 @@
+Package: plantFEM
+Version: 22.04-ubuntu2004
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 112
+Depends: gfortran, libopenmpi-dev, python3
+Conflicts: hello-traditional
+Section: devel
+Priority: optional
+Homepage: http://plantfem.org/
+Description: plantFEM 22.04 deb package
+build-id: 20220630-2
+Original-Maintainer: Haruka Tomobe <tomobe.haruka.58m@gmail.com>
